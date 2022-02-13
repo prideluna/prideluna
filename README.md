@@ -27,7 +27,11 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prideluna&show_icons=true&locale=en&layout=compact" alt="prideluna" /></p>
 
+
+
+<h4 align="center">Find me: </h4>
+<p align="center"> <a href="https://www.linkedin.com/in/priscila-luna" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Priscila Luna" width="40" height="40"/> </a> 
 <!---
 prideluna/prideluna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+https://rahuldkjain.github.io/gh-profile-readme-generator/ --- https://worldvectorlogo.com
 --->
