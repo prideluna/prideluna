@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **data projects**
 
-- 🌱 I’m currently learning **JavaSript, C, Tableu,**
+- 🌱 I’m currently learning **JavaSript, C, Tableu, Agile Methodologies, Statistics & Probability, Web Scrapping and Machine Learning**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
