@@ -4,7 +4,7 @@
 <br>
 
 
-<a  href="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif"><img src="https://media1.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611e79831ea1ddcfed6878f3ce7cf691d9261a0a50c&rid=giphy.gif&ct=g"  align="left" width="250" height="200" title="gif cat smiling writing on keyboard"/></a>
+<a  href="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif"><img src="https://media1.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611e79831ea1ddcfed6878f3ce7cf691d9261a0a50c&rid=giphy.gif&ct=g"  align="left" width="270" height="220" title="gif cat smiling writing on keyboard"/></a>
 
 
 
