@@ -4,9 +4,10 @@
 <br>
 
 
-<a  href="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif"><img src="https://media1.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=790b7611e79831ea1ddcfed6878f3ce7cf691d9261a0a50c&rid=giphy.gif&ct=g"  align="left" width="270" height="220" title="gif cat smiling writing on keyboard"/></a>
 
+<a  href="https://giphy.com/embed/6OrCT1jVbonHG" frameBorder="0" class="giphy-embed" allowFullScreen><img src="https://media2.giphy.com/media/6OrCT1jVbonHG/giphy.gif?cid=790b7611e4df67b1c8e709b7af6affc5e4743c31244d830f&rid=giphy.gif&ct=g"  width="430" height="250" align="right" title="gif of a anime girl typping codes"/></a>
 
+<!--width="270" height="220" -->
 
 
 
@@ -21,11 +22,7 @@
 - 👨‍💻 All of my projects are available at **a site in progress...**
 
 - 📫 How to reach me **pri.deluna@gmail.com**
-<!---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
---->
+
 <br>
 <br>
 <h3 align="center">Languages and Tools:</h3>
