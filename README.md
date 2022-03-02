@@ -1,10 +1,17 @@
+<!-- 
+Put about in each repository
+Write all read.me Files
 
-<h1 align="center">Hiii 👋, I'm Priscila Luna</h1>
+-->
+
+<h1 align="center">Hiii 👋, I'm Priscila Luna</h1> 
+
+---
+
 <h3 align="center">A passionate developer from Brazil with data science interest</h3>
 <br>
 
-
-
+---
 <a  href="https://giphy.com/embed/6OrCT1jVbonHG" frameBorder="0" class="giphy-embed" allowFullScreen><img src="https://media2.giphy.com/media/6OrCT1jVbonHG/giphy.gif?cid=790b7611e4df67b1c8e709b7af6affc5e4743c31244d830f&rid=giphy.gif&ct=g"  width="430" height="250" align="right" title="gif of a anime girl typping codes"/></a>
 
 <!--width="270" height="220" -->
@@ -22,6 +29,8 @@
 - 👨‍💻 All of my projects are available at **a site in progress...**
 
 - 📫 How to reach me **pri.deluna@gmail.com**
+
+---
 
 <br>
 <br>
