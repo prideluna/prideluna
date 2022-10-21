@@ -26,7 +26,7 @@ Write all read.me Files
 - 👨‍💻 All of my projects are available at **a site in progress...**
 
 - 📫 How to reach me:
-- <br> 
+<br> 
 **pri.deluna@gmail.com** 
 <br>
 **https://www.linkedin.com/in/priscila-luna**
